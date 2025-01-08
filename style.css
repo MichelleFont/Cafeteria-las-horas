@@ -1,0 +1,42 @@
+body {
+    margin: 1%;
+    padding: 0;
+    background-color: #ffe6d6;
+    color: #924848;
+    text-align: center;
+}
+
+#principal {
+    background-color: #a05252;
+    color: white;
+    padding: 20px 0;
+    font-size: 24px;
+}
+
+.contenido {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+}
+
+.item1{
+    margin-bottom: 10px;
+    position: relative;  
+    height: 10%;
+    width: 30%;
+}
+
+
+.item2 {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+
+
+.item{
+    text-decoration: none;
+    color: #5a2b2b;
+    font-weight: bold;
+}
